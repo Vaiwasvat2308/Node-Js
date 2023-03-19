@@ -1,0 +1,22 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaiwasvat2308/Node-Js.git"
+  },
+  "author": "Vaiwasvat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaiwasvat2308/Node-Js/issues"
+  },
+  "homepage": "https://github.com/Vaiwasvat2308/Node-Js#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
